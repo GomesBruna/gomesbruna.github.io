@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "io.github.gomesbruna.deeplink",
+  "target" : { "namespace": "android_app", "package_name": "io.ionic.starter",
                "sha256_cert_fingerprints": ["DA:B7:DB:B6:B5:36:47:7A:D5:58:75:EA:AA:38:94:7E:11:15:9E:07:C2:9C:3E:AD:02:01:9C:84:1D:59:60:D3"] }
 }]
